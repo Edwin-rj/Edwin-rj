@@ -1,108 +1,191 @@
-# Hi 👋! I'm Edwin Reji John
-## Software Developer | AR/VR Enthusiast | Technical Trainer
+# Edwin Reji John
+## Architecting Digital Realities • AR/VR Pioneer • Technical Catalyst
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Software+Developer;AR%2FVR+Enthusiast;Technical+Trainer;Unity+Developer)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Building%20Tomorrow's%20Interfaces&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Where%20Code%20Meets%20Imagination&descAlignY=55&descSize=16" width="100%" />
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🏗️+Engineering+Scalable+Enterprise+Solutions;🥽+Crafting+Immersive+AR%2FVR+Experiences;🎓+Mentoring+Next-Gen+Developers;🚀+Transforming+Ideas+into+Digital+Reality" alt="Dynamic Role Description" />
 </div>
 
-> Passionate about creating innovative solutions through cutting-edge technology and empowering others through education. Trainer
-
-> Passionate about creating innovative solutions through cutting-edge technology and empowering others through education.
-
----
-
-### 🚀 About Me
-
-I'm a **Software Developer** and **Technical Trainer** who transforms ideas into reality through code. I specialize in building immersive AR applications, robust full-stack solutions, and enterprise-grade systems that solve real-world problems.
-
-**What I Do:**
-- 🏗️ Build **ERP systems** with automated workflows and secure APIs
-- 🥽 Create **AR/VR applications** for immersive 3D experiences
-- 🎓 Train and mentor aspiring developers through workshops
-- 🔧 Develop **full-stack platforms** connecting businesses and users
-
-**What I'm Capable Of:**
-- **Full-Stack Development**: From database design to user interfaces
-- **AR/VR Development**: Unity, Vuforia, 3D modeling with Blender
-- **API Architecture**: REST APIs, JWT authentication, real-time data integration
-- **UI/UX Design**: Creating intuitive interfaces with Figma
-- **Teaching & Training**: Breaking down complex concepts for learners
-
-**My Approach:**
-I believe in writing clean, scalable code and creating solutions that not only work but make a real impact. Whether it's building an AR home visualization app or training the next generation of developers, I'm driven by the power of technology to transform experiences.
-
-- 📫 Let's connect: **edwinrj1975@gmail.com**
-
----
-
-### 🛠️ Tech Stack
+<br>
 
 <div align="center">
-
-#### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Frameworks & Tools
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### Design & 3D
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" height="120" />
+        <h3>🏗️ Enterprise Architect</h3>
+        <p>Building robust ERP systems with automated workflows and secure API architectures</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50cecc2-de86-4dd5-94c2-8c7b59512cd0.gif" width="120" height="120" />
+        <h3>🥽 Reality Engineer</h3>
+        <p>Crafting immersive AR/VR experiences that bridge physical and digital worlds</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="120" height="120" />
+        <h3>🎓 Technical Catalyst</h3>
+        <p>Empowering developers through mentorship and cutting-edge training programs</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
+## 🌟 Mission Statement
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwin-rj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edwin-rj&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
-</div>
+> *"I don't just write code—I architect digital experiences that transform how people interact with technology. Every line of code is a step toward a more connected, immersive, and intelligent future."*
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Edwin-rj&theme=tokyonight&hide_border=true&background=0D1117" height="160" alt="streak stats" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
 
 ---
 
+## 🎯 What Sets Me Apart
 
+<details>
+<summary>🏢 <strong>Enterprise Solutions Architect</strong></summary>
+<br>
 
-### 🌐 Connect With Me
+- **ERP Systems**: Design and implement comprehensive business management platforms
+- **API Architecture**: Create scalable REST APIs with JWT authentication and real-time integration
+- **Database Engineering**: Optimize complex data structures for enterprise-scale applications
+- **Security Implementation**: Build secure, compliant systems for sensitive business operations
+
+</details>
+
+<details>
+<summary>🌐 <strong>Immersive Technology Specialist</strong></summary>
+<br>
+
+- **AR Applications**: Unity-powered augmented reality solutions for real-world problems
+- **3D Visualization**: Blender expertise for creating stunning 3D models and animations
+- **Vuforia Integration**: Advanced marker-based and markerless AR implementations
+- **Cross-Platform Development**: Seamless experiences across mobile and desktop platforms
+
+</details>
+
+<details>
+<summary>📱 <strong>Full-Stack Innovation</strong></summary>
+<br>
+
+- **Frontend Mastery**: Creating intuitive, responsive interfaces with modern frameworks
+- **Backend Excellence**: Robust server architectures with ASP.NET Core and Firebase
+- **Mobile Development**: Native-quality apps with Flutter and Dart
+- **UI/UX Design**: Figma-powered design systems that prioritize user experience
+
+</details>
+
+<details>
+<summary>🎓 <strong>Technical Leadership & Training</strong></summary>
+<br>
+
+- **Workshop Facilitation**: Interactive coding bootcamps and technical workshops
+- **Mentorship Programs**: Guiding junior developers through complex technical challenges
+- **Content Creation**: Developing comprehensive learning materials and documentation
+- **Community Building**: Fostering collaborative learning environments
+
+</details>
+
+---
+
+## 🚀 Technology Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-reji-john)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwin-rj)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinrj1975@gmail.com)
+### Core Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
+
+### Specialized Technologies
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000)
+![Vuforia](https://img.shields.io/badge/Vuforia-1DB954?style=for-the-badge&logo=vuforia&logoColor=white&labelColor=1DB954)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=F5792A)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
 
 </div>
 
 ---
 
-### 💭 Quote
-
-> "Technology is not just about code; it's about creating experiences that make a difference."
-
----
+## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edwin-rj&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Edwin-rj&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" alt="Edwin's GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-rj&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb&layout=compact" alt="Edwin's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwin-rj&theme=react&border_color=61dafb&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakNum=61dafb&sideNums=61dafb&currStreakLabel=61dafb&sideLabels=61dafb&dates=61dafb" alt="Edwin's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edwin-rj&bg_color=0D1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Edwin's Contribution Graph" />
 </div>
 
 ---
 
-*⭐ From [Edwin-rj](https://github.com/Edwin-rj)*
+## 🎖️ Achievement Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Edwin-rj&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Edwin's GitHub Trophies" />
+</div>
+
+---
+
+## 🌐 Professional Network
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/edwin-reji-john" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Edwin-rj" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:edwinrj1975@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🔧+Scaling+Enterprise+ERP+Solutions;🥽+Next-Gen+AR+Home+Visualization;🎓+Advanced+Developer+Training+Programs;🚀+Open+Source+Contribution+Initiatives" alt="Current Projects" />
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Technology%20is%20not%20just%20about%20code%3B%20it's%20about%20creating%20experiences%20that%20make%20a%20difference.&author=Edwin%20Reji%20John" alt="Personal Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
+  
+  <img src="https://komarev.com/ghpvc/?username=Edwin-rj&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  
+  <p><em>⚡ Transforming Tomorrow, One Algorithm at a Time</em></p>
+</div>
