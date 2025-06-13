@@ -132,10 +132,55 @@
 
 ---
 
-## 🎖️ Achievement Showcase
+## 🎮 Developer Achievement System
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Edwin-rj&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Edwin's GitHub Trophies" />
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
+        <br><strong>🏗️ ARCHITECT</strong>
+        <br><sub>ERP Systems Mastery</sub>
+        <br>━━━━━━━━━━ 100%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+        <br><strong>🥽 REALITY HACKER</strong>
+        <br><sub>AR/VR Innovation</sub>
+        <br>━━━━━━━━━━ 95%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/>
+        <br><strong>🎓 MENTOR</strong>
+        <br><sub>Knowledge Transfer</sub>
+        <br>━━━━━━━━━━ 88%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/>
+        <br><strong>⚡ INNOVATOR</strong>
+        <br><sub>Tech Pioneer</sub>
+        <br>━━━━━━━━━━ 92%
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<div align="center">
+  
+  ### 🔥 Current Streak
+  
+  ```
+  📅 365+ Days of Code    🏆 50+ Projects Shipped    🌟 10+ Mentees Trained
+  ```
+  
+  ### 🎯 Mission Status
+  
+  [![Mission](https://img.shields.io/badge/🚀%20Mission-ACTIVE-00ff00?style=for-the-badge&labelColor=000000)](https://github.com/Edwin-rj)
+  [![Impact](https://img.shields.io/badge/💫%20Impact-HIGH-ff6b6b?style=for-the-badge&labelColor=000000)](https://github.com/Edwin-rj)
+  [![Innovation](https://img.shields.io/badge/⚡%20Innovation-MAXIMUM-4ecdc4?style=for-the-badge&labelColor=000000)](https://github.com/Edwin-rj)
+  
 </div>
 
 ---
