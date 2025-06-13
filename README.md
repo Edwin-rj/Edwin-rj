@@ -1,6 +1,18 @@
 # Hi 👋! I'm Edwin Reji John
 ## Software Developer | AR/VR Enthusiast | Technical Trainer
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Software+Developer;AR%2FVR+Enthusiast;Technical+Trainer;Unity+Developer)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+> Passionate about creating innovative solutions through cutting-edge technology and empowering others through education. Trainer
+
 > Passionate about creating innovative solutions through cutting-edge technology and empowering others through education.
 
 ---
