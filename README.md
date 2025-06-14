@@ -85,7 +85,7 @@ Passionate *Software Developer* and *AR/Unity Specialist* with expertise in full
       <br><sub><b>C#</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt="ASP.NET" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="60" height="60" />
       <br><sub><b>ASP.NET Core</b></sub>
     </td>
     <td align="center" width="100">
