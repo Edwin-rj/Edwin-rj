@@ -1,153 +1,57 @@
-# Edwin Reji John
-## Architecting Digital Realities • AR/VR Pioneer • Technical Catalyst
+# <div align="center">*Edwin Reji John*</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Building%20Tomorrow's%20Interfaces&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Where%20Code%20Meets%20Imagination&descAlignY=55&descSize=16" width="100%" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Development+Expert+%F0%9F%92%BB;AR+%26+Unity+Development+Specialist+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%8C%90;Technical+Trainer+%26+Mentor+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🏗️+Engineering+Scalable+Enterprise+Solutions;🥽+Crafting+Immersive+AR%2FVR+Experiences;🎓+Mentoring+Next-Gen+Developers;🚀+Transforming+Ideas+into+Digital+Reality" alt="Dynamic Role Description" />
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+## 🚀 *Crafting Tomorrow's Solutions Today*
+
+Passionate *Software Developer* and *AR/Unity Specialist* with expertise in full-stack development and immersive technologies. I transform innovative ideas into practical solutions, bridging the gap between cutting-edge technology and real-world applications through AR experiences and enterprise software development.
+
+<div align="left">
+  
+🎯 *Current Focus:* AR Development & Enterprise Software Solutions  
+🔬 *Research Areas:* Augmented Reality, 3D Visualization, ERP Systems  
+🌱 *Learning:* Advanced Unity Features, Cloud Computing, DevOps  
+⚡ *Philosophy:* Build with purpose, teach with passion  
+
 </div>
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" height="120" />
-        <h3>🏗️ Enterprise Architect</h3>
-        <p>Building robust ERP systems with automated workflows and secure API architectures</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50cecc2-de86-4dd5-94c2-8c7b59512cd0.gif" width="120" height="120" />
-        <h3>🥽 Reality Engineer</h3>
-        <p>Crafting immersive AR/VR experiences that bridge physical and digital worlds</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="120" height="120" />
-        <h3>🎓 Technical Catalyst</h3>
-        <p>Empowering developers through mentorship and cutting-edge training programs</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Edwin-rj&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/Edwin-rj?style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="Followers" />
+</p>
 
 ---
 
-## 🌟 Mission Statement
-
-> *"I don't just write code—I architect digital experiences that transform how people interact with technology. Every line of code is a step toward a more connected, immersive, and intelligent future."*
+## 🏆 *Recognition & Excellence*
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-</div>
-
----
-
-## 🎯 What Sets Me Apart
-
-<details>
-<summary>🏢 <strong>Enterprise Solutions Architect</strong></summary>
-<br>
-
-- **ERP Systems**: Design and implement comprehensive business management platforms
-- **API Architecture**: Create scalable REST APIs with JWT authentication and real-time integration
-- **Database Engineering**: Optimize complex data structures for enterprise-scale applications
-- **Security Implementation**: Build secure, compliant systems for sensitive business operations
-
-</details>
-
-<details>
-<summary>🌐 <strong>Immersive Technology Specialist</strong></summary>
-<br>
-
-- **AR Applications**: Unity-powered augmented reality solutions for real-world problems
-- **3D Visualization**: Blender expertise for creating stunning 3D models and animations
-- **Vuforia Integration**: Advanced marker-based and markerless AR implementations
-- **Cross-Platform Development**: Seamless experiences across mobile and desktop platforms
-
-</details>
-
-<details>
-<summary>📱 <strong>Full-Stack Innovation</strong></summary>
-<br>
-
-- **Frontend Mastery**: Creating intuitive, responsive interfaces with modern frameworks
-- **Backend Excellence**: Robust server architectures with ASP.NET Core and Firebase
-- **Mobile Development**: Native-quality apps with Flutter and Dart
-- **UI/UX Design**: Figma-powered design systems that prioritize user experience
-
-</details>
-
-<details>
-<summary>🎓 <strong>Technical Leadership & Training</strong></summary>
-<br>
-
-- **Workshop Facilitation**: Interactive coding bootcamps and technical workshops
-- **Mentorship Programs**: Guiding junior developers through complex technical challenges
-- **Content Creation**: Developing comprehensive learning materials and documentation
-- **Community Building**: Fostering collaborative learning environments
-
-</details>
-
----
-
-### 🚀 Tech Arsenal
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65" height="65" alt="C#" />
-      <br><b>C#</b>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎓-B.Tech%20CSE-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+      <br><sub><b>Computer Science Engineering</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="65" height="65" alt="Dart" />
-      <br><b>Dart</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65" height="65" alt="Flutter" />
-      <br><b>Flutter</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="65" height="65" alt="ASP.NET Core" />
-      <br><b>ASP.NET Core</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="SQL" />
-      <br><b>SQL</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase" />
-      <br><b>Firebase</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="65" height="65" alt="Unity" />
-      <br><b>Unity</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vuforia_Logo.png" width="65" height="65" alt="Vuforia" />
-      <br><b>Vuforia</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="65" height="65" alt="Blender" />
-      <br><b>Blender</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
-      <br><b>Figma</b>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💼-Junior%20Developer-CD7F32?style=for-the-badge&logo=briefcase&logoColor=white" />
+      <br><sub><b>EQ Soft Business Pvt Ltd</b></sub>
     </td>
   </tr>
 </table>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 📊 Performance Metrics
+## 📊 *Performance Metrics*
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Edwin-rj&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" alt="Edwin's GitHub Stats" />
@@ -164,105 +68,156 @@
 
 ---
 
-## 🎮 Developer Achievement System
+## 🛠 *Technology Arsenal*
+
+<div align="center">
+
+### *Core Technologies*
+
+<img src="https://skillicons.dev/icons?i=cs,dart,flutter,unity,dotnet,blender,figma,firebase,git,github&theme=dark" />
+
+### *Development Ecosystem*
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="60" height="60" />
+      <br><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt="ASP.NET" width="60" height="60" />
+      <br><sub><b>ASP.NET Core</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="60" height="60" />
+      <br><sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="60" height="60" />
+      <br><sub><b>Unity</b></sub>
+    </td>
+  </tr>
+</table>
+
+### *Specialized Tools & Frameworks*
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
-        <br><strong>🏗️ ARCHITECT</strong>
-        <br><sub>ERP Systems Mastery</sub>
-        <br>━━━━━━━━━━ 100%
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
-        <br><strong>🥽 REALITY HACKER</strong>
-        <br><sub>AR/VR Innovation</sub>
-        <br>━━━━━━━━━━ 95%
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/>
-        <br><strong>🎓 MENTOR</strong>
-        <br><sub>Knowledge Transfer</sub>
-        <br>━━━━━━━━━━ 88%
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/>
-        <br><strong>⚡ INNOVATOR</strong>
-        <br><sub>Tech Pioneer</sub>
-        <br>━━━━━━━━━━ 92%
-      </td>
-    </tr>
-  </table>
+![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-3D%20Engine-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-AR%20Platform-00D4FF?style=for-the-badge&logo=augmented-reality&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-ORM-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<div align="center">
-  
-  ### 🔥 Current Streak
-  
-  ```
-  📅 365+ Days of Code    🏆 50+ Projects Shipped    🌟 10+ Mentees Trained
-  ```
-  
-  ### 🎯 Mission Status
-  
-  [![Mission](https://img.shields.io/badge/🚀%20Mission-ACTIVE-00ff00?style=for-the-badge&labelColor=000000)](https://github.com/Edwin-rj)
-  [![Impact](https://img.shields.io/badge/💫%20Impact-HIGH-ff6b6b?style=for-the-badge&labelColor=000000)](https://github.com/Edwin-rj)
-  [![Innovation](https://img.shields.io/badge/⚡%20Innovation-MAXIMUM-4ecdc4?style=for-the-badge&labelColor=000000)](https://github.com/Edwin-rj)
-  
 </div>
 
----
-
-## 🌐 Professional Network
+### *Technical Expertise*
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/edwin-reji-john" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Edwin-rj" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:edwinrj1975@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+🏗 *Enterprise Software Development*  
+🥽 *Augmented Reality Applications*  
+🎮 *3D Visualization & Modeling*  
+📱 *Cross-Platform Mobile Development*  
+🌐 *Full-Stack Web Solutions*  
+🔐 *API Design & JWT Authentication*  
+
 </div>
 
----
-
-## 🎯 Current Focus
+### *Professional Skills*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🔧+Scaling+Enterprise+ERP+Solutions;🥽+Next-Gen+AR+Home+Visualization;🎓+Advanced+Developer+Training+Programs;🚀+Open+Source+Contribution+Initiatives" alt="Current Projects" />
+  
+🎓 *Technical Training & Workshops*  
+👥 *Cross-Functional Team Collaboration*  
+🧩 *Complex Problem Resolution*  
+📋 *Agile Project Management*  
+
 </div>
 
 ---
 
-## 💡 Philosophy
+## 🎯 *Featured Projects*
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Technology%20is%20not%20just%20about%20code%3B%20it's%20about%20creating%20experiences%20that%20make%20a%20difference.&author=Edwin%20Reji%20John" alt="Personal Quote" />
+
+### 🏠 **Reality Home AR**
+*Unity • Blender • Figma • C# • Vuforia • Firebase*
+
+AR-based application for real-time 3D visualization of home designs and construction projects. Features immersive 3D tours, real-time customization capabilities, and seamless integration with purchasing platforms.
+
+### 🤝 **Vendor Management Platform**
+*Flutter • ASP.NET Core • Dapper*
+
+Full-stack platform connecting entrepreneurs and companies with comprehensive franchise and offer management. Includes three specialized modules with real-time notifications and admin-moderated content.
+
+</div>
+
+---
+
+## 💼 *Professional Experience*
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/EQ%20Soft-Junior%20Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+      <br><sub><b>Dec 2024 - Present</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/EQ%20Soft-Technical%20Trainer-FF6B35?style=for-the-badge&logo=teachable&logoColor=white" />
+      <br><sub><b>Dec 2024 - Present</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Immersive%20Skills-AR%20Developer-00D4FF?style=for-the-badge&logo=unity&logoColor=white" />
+      <br><sub><b>Sep 2023 - Jul 2024</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/IES%20College-B.Tech%20CSE-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+      <br><sub><b>Nov 2021 - Apr 2025</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 *Connect & Collaborate*
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/edwin-reji-john)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Edwin-rj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:edwinrj1975@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
-  
-  <img src="https://komarev.com/ghpvc/?username=Edwin-rj&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  
-  <p><em>⚡ Transforming Tomorrow, One Algorithm at a Time</em></p>
+
+## 🎯 *Impact & Contributions*
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=Edwin-rj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### "Innovation distinguishes between a leader and a follower"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
+
 </div>
