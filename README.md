@@ -38,11 +38,11 @@ Passionate *Software Developer* and *AR/Unity Specialist* with expertise in full
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/🎓-B.Tech%20CSE-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-      <br><sub><b>Computer Science Engineering</b></sub>
+      <br><sub><b>EQ Soft Business Pvt Ltd</b></sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/💼-Junior%20Developer-CD7F32?style=for-the-badge&logo=briefcase&logoColor=white" />
-      <br><sub><b>EQ Soft Business Pvt Ltd</b></sub>
+      <br><sub><b>EQ Soft Technologies</b></sub>
     </td>
   </tr>
 </table>
