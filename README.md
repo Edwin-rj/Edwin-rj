@@ -187,7 +187,7 @@ Full-stack platform connecting entrepreneurs and companies with comprehensive fr
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/IES%20College-B.Tech%20CSE-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-      <br><sub><b>Nov 2021 - Apr 2025</b></sub>
+      <br><sub><b>Nov 2021 - May 2025</b></sub>
     </td>
   </tr>
 </table>
