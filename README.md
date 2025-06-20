@@ -59,9 +59,9 @@ Passionate *Software Developer* and *AR/Unity Specialist* with expertise in full
 </div>
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=Edwin-rj&theme=react&border=61dafb&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakNum=61dafb&sideNums=61dafb&currStreakLabel=61dafb&sideLabels=61dafb&dates=61dafb" />
-
+  <img src="https://streak-stats.demolab.com?user=Edwin-rj&theme=react&border=61dafb&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakNum=61dafb&sideNums=61dafb&currStreakLabel=61dafb&sideLabels=61dafb&dates=61dafb" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edwin-rj&bg_color=0D1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Edwin's Contribution Graph" />
