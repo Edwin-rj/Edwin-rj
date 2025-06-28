@@ -62,7 +62,7 @@ Passionate *Software Developer* and *AR/Unity Specialist* with expertise in full
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeshks&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="Sreesh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwin-rj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="Sreesh's GitHub Streak" />
 </div>
 
 
