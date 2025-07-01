@@ -22,7 +22,7 @@ Passionate *Software Developer* and *AR/Unity Specialist* with expertise in full
 
 
   
-🎯 *Current Focus:* AR Development & Enterprise Software Solutions  
+🎯 *Current Focus:* AR Development &  Enterprise Software Solutions  
 🔬 *Research Areas:* Augmented Reality, 3D Visualization, ERP Systems  
 🌱 *Learning:* Advanced Unity Features, Cloud Computing, DevOps  
 ⚡ *Philosophy:* Build with purpose, teach with passion  
