@@ -4,6 +4,7 @@
 
 
 <div align="center">
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Development+Expert+%F0%9F%92%BB;AR+%26+Unity+Development+Specialist+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%8C%90;Technical+Trainer+%26+Mentor+%F0%9F%8E%93)](https://git.io/typing-svg)
 
